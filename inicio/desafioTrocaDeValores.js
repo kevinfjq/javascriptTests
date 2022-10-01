@@ -1,6 +1,6 @@
 let a = 58;
 let b = 22;
-let temp = a;
+// let temp = a;
 
 // a = b;
 // b = temp;

@@ -19,4 +19,5 @@ function teste(){
     console.log(local);
 }
 teste()
-console.log(local);
+
+//LET

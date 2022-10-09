@@ -6,4 +6,4 @@ function potencia(base, expoente){
     return temp;
 }
 
-console.log(potencia(2, 2));
+console.log(potencia(1.15, 10));
